@@ -33,11 +33,11 @@ Levando em conta o levantamento feito no INPI, a atividade levará em conta como
 ## Mostre a curva de evolução temporal das 3 maiores tecnologias de interesse da empresa
 
 - E01F13/06
-  ![E01F13:06.png](E01F13:06.png "E01F13/06")
+  ![E01F1306.png](E01F1306.png "E01F13/06")
 - E06B11/08
-  ![E01F13:06.png](E06B11:08.png "E06B11/08")
+  ![E01F1306.png](E06B1108.png "E06B11/08")
 - G07C9/00
-  ![E01F13:06.png](G07C9:00.png "G07C9/00")
+  ![E01F1306.png](G07C900.png "G07C9/00")
 
 ## Em quais países essa empresa é mais atuante?
 
