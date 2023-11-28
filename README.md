@@ -1,5 +1,7 @@
 # Atividade
 
+## Legislação sobre Transferência de Tecnologia
+[link](https://www.gov.br/agu/pt-br/composicao/procuradoria-geral-federal-1/subprocuradoria-federal-de-consultoria-juridica/camara-permanente-da-ciencia-tecnologia-e-inovacao-1/instrumentos-do-marco-legal-de-ct-i/contratos-que-envolvem-transferencia-de-tecnologia-no-marco-legal-de-ct-i)
 ## Busque do seu interesse uma empresa especializada em P&D
 
 Eu estou procurando patentes de hardware para controle de acesso de pedestres similar a uma catraca com CPC e06b11/08.
