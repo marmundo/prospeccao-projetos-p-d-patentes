@@ -4,6 +4,9 @@
 [link](https://www.gov.br/agu/pt-br/composicao/procuradoria-geral-federal-1/subprocuradoria-federal-de-consultoria-juridica/camara-permanente-da-ciencia-tecnologia-e-inovacao-1/instrumentos-do-marco-legal-de-ct-i/contratos-que-envolvem-transferencia-de-tecnologia-no-marco-legal-de-ct-i)
 ## Busque do seu interesse uma empresa especializada em P&D
 
+## Slides usados no treinamento
+[link](https://academicoifrnedu-my.sharepoint.com/personal/joao_teixeira_academico_ifrn_edu_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjoao%5Fteixeira%5Facademico%5Fifrn%5Fedu%5Fbr%2FDocuments%2FJo%C3%A3o%20Teixeira%2FIFRN%2FPropi%2FCapacita%C3%A7%C3%B5es%20sistemicas%2FCurso%20IFRN%20PI%2FMaterial%2FCurso%20IFRN%20%2D%20Prospec%C3%A7%C3%A3o%20Tecnol%C3%B3gica%20para%20PeD%20baseado%20em%20busca%20patent%C3%A1ria%2Epdf&parent=%2Fpersonal%2Fjoao%5Fteixeira%5Facademico%5Fifrn%5Fedu%5Fbr%2FDocuments%2FJo%C3%A3o%20Teixeira%2FIFRN%2FPropi%2FCapacita%C3%A7%C3%B5es%20sistemicas%2FCurso%20IFRN%20PI%2FMaterial&ga=1)
+
 Eu estou procurando patentes de hardware para controle de acesso de pedestres similar a uma catraca com CPC e06b11/08.
 
 ### Nome das empresas com depósito de patentes no Brasil
